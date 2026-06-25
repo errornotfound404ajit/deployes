@@ -4,7 +4,7 @@ import (
 	"database/sql"
 	"testing"
 
-	"deployes/internal/domain"
+	domain "deployes/internal/domain/user"
 
 	_ "github.com/lib/pq"
 )
